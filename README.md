@@ -7,3 +7,10 @@ In this repository, one notebook goes through classifying a tumour as either bei
   <img src="https://github.com/ErnestAsena/Predicting-Cancerous-Tumours-and-Classifying-The-Iris-Flowers-Dataset/blob/main/Images/Screenshot%202021-11-10%20at%2013.46.24.png"/> 
   <img src="https://github.com/ErnestAsena/Predicting-Cancerous-Tumours-and-Classifying-The-Iris-Flowers-Dataset/blob/main/Images/Screenshot%202021-11-10%20at%2013.46.38.png" />
 </p>
+
+<br>
+<img src="https://github.com/ErnestAsena/Predicting-Cancerous-Tumours-and-Classifying-The-Iris-Flowers-Dataset/blob/main/Images/Screenshot%202021-11-10%20at%2013.47.22.png">
+<br>
+<br>
+A confusion matrix of the classification of the test data set for the cancer support vector machine model.
+<img src='https://github.com/ErnestAsena/Predicting-Cancerous-Tumours-and-Classifying-The-Iris-Flowers-Dataset/blob/main/Images/Screenshot%202021-11-10%20at%2013.58.01.png'>
